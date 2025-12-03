@@ -1,0 +1,16 @@
+Business scope
+Problem formalisation and methods
+    Algorithm description
+    Limitations
+Methodology
+    Data description and exploration
+        Missing values
+        Imbalanced data
+        Outliers
+    Data splitting for train/test
+    Algorithm implementation and hyperpameters
+Results
+    Metrics
+    Overfitting/underfitting/Imbalance…
+    Evaluation, comparison with the baseline
+Discussion and conclusion
